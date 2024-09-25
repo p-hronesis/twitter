@@ -1,4 +1,3 @@
-import bcrypt from "bcrypt";
 import { NextApiRequest, NextApiResponse } from "next";
 import prisma from "@/libs/prismadb";
 import serverAuth from "@/libs/serverAuth";

@@ -9,7 +9,6 @@ import useEditModal from "@/hooks/useEditModal";
 import useUser from "@/hooks/useUser";
 import Modal from "../Modal";
 import Input from "../Input";
-import { Session } from "inspector/promises";
 import ImageUpload from "../ImageUpload";
 
 const EditModal = () => {
