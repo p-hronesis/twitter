@@ -17,9 +17,9 @@
     <br />
     <a href="https://plitter-seven.vercel.app/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/p-hronesis/twitterissues/new?labels=bug&template=bug-report---.md" target="_blank">Report Bug</a>
+    <a href="https://github.com/p-hronesis/twitter/issues/new?labels=bug&template=bug-report---.md" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/p-hronesis/twitterissues/new?labels=enhancement&template=feature-request---.md" target="_blank">Request Feature</a>
+    <a href="https://github.com/p-hronesis/twitter/issues/new?labels=enhancement&template=feature-request---.md" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -138,7 +138,7 @@ This is a very minimalistic Twitter clone app that implements some basic functio
 
 ### Built With
 
-This is the list of some of the plugins and frameworks I used, check the <a href="https://github.com/p-hronesis/twitterblob/master/package.json" target="_blank">package.json</a> for a complete list.
+This is the list of some of the plugins and frameworks I used, check the <a href="https://github.com/p-hronesis/twitter/blob/master/package.json" target="_blank">package.json</a> for a complete list.
 
 [product-screenshot]: screenshot.png
 [Nextjs-url]: https://nextjs.org/
@@ -309,7 +309,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - Linkedin: (https://www.linkedin.com/in/dipekehinde)
 - Email: dipekehinde@gmail.com
 
-Project Link: [https://github.com/p-hronesistwitter](https://github.com/p-hronesistwitter)
+Project Link: [https://github.com/p-hronesis/twitter](https://github.com/p-hronesis/twitter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
