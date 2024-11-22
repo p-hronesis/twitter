@@ -15,7 +15,7 @@
     <a href="https://github.com/p-hronesis/twitter" target="_blank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://plitter-seven.vercel.app/" target="_blank">View Demo</a>
+    <a href="https://flitterx.vercel.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/p-hronesis/twitter/issues/new?labels=bug&template=bug-report---.md" target="_blank">Report Bug</a>
     ·
@@ -55,7 +55,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://plitter-seven.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://flitterx.vercel.app/)
 
 This is a very minimalistic Twitter clone app that implements some basic functionalities of Twitter and it user interface.
 
